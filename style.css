@@ -1,0 +1,132 @@
+      #title {
+
+           background-color:	#00FFFF;
+            color: #0000;
+            }
+
+       body {
+            /* background-color: #7ec8e3; */
+          /*  background-color:	#3597FA; */
+            background-color:	#a5f1f6;
+          /*  background-color:	#00BFFF; */
+            font-family: "Montserrat";
+            }
+
+      hr {
+            border-style: none;
+            border-top-style: dotted;
+            border-height: 5px;
+            border-width: 10px;
+            border-color: grey;
+            }
+
+        h1 {
+           font: Montserrat-Black;
+            size: 3rem;
+            line-height: 1.5;
+            color: blue;
+            }
+
+        h2 {
+            font-family:"Montserrat-Bold";
+            }
+
+        h3 {
+            color: yellow;
+            font-family:"Montserrat-Bold";
+            }
+
+        p {
+            font-family:"Montserrat";
+             }
+
+        .navbar{
+           padding-bottom: 0 0  4.5rem;
+           }
+
+        .navbar-brand {
+            font-family: "ubuntu";
+            font-size: 1.25rem;
+           }
+
+        .nav-item{
+           padding: 0 18;
+           }
+
+        .navbar-nav .nav-item .nav-link {
+           color: white;
+            }
+
+        .nav-link{
+            font-size: 1.25rem;
+           }
+
+         .container-fluid {
+            padding: 3%![](../../../../AppData/Local/Temp/mtgdau0s.bmp) 5%;
+            background-color:	#00BFFF;
+            }
+
+        .continue {
+           text-align: center;
+            }
+
+        img {
+         /*   background : #5161f5;*/
+         /*   width:300px;
+            height: 160px; */
+            width:400px;
+            height: 200px;
+            }
+
+       .my_pic_clear {
+            background : none;
+            }
+
+        .inshore {
+             text-align: center;
+            }
+
+            /* features*/
+        #super_slam{
+            padding: 3%  2%;
+            margin-right: 5%;
+            }
+
+        .super{
+            text-align: center;
+            padding: 5%;
+            background:none;
+            }
+
+        .hobbies_slam{
+            width:350px;
+            height:350px
+           }
+
+        .notables{
+            text-align:center;
+            }
+
+        #hobbies{
+            padding: 3%;
+            margin-right: 5%;
+            }
+
+        #contact-style{
+           background-color: #D1DCF4;
+           text-align: center;
+            }
+
+        .lawson{
+         padding: 0% 8%;
+        }
+
+        .copyright{
+        color: gray;
+        text-align:center;
+        font-size:.75rem;
+
+        }
+       /* silhouette PNG Designed By MAL from https://pngtree.com/freepng/
+       silhouette-style-fishing-rod-for-fishing_6439018.html?sol=downref&id=bef */
+
